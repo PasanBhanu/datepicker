@@ -2,7 +2,7 @@
 
 [![Build Status](https://img.shields.io/travis/fengyuanchen/datepicker.svg)](https://travis-ci.org/fengyuanchen/datepicker) [![Downloads](https://img.shields.io/npm/dm/@chenfengyuan/datepicker.svg)](https://www.npmjs.com/package/@chenfengyuan/datepicker) [![Version](https://img.shields.io/npm/v/@chenfengyuan/datepicker.svg)](https://www.npmjs.com/package/@chenfengyuan/datepicker)
 
-> A simple jQuery datepicker plugin.
+> The Sinhala Support jQuery Datepicker Plugin.
 
 - [Website](https://fengyuanchen.github.io/datepicker)
 
@@ -14,7 +14,7 @@
 - [Options](#options)
 - [Methods](#methods)
 - [Events](#events)
-- [I18n](#i18n)
+- [I18n (Sinhala Support)](#i18n)
 - [No conflict](#no-conflict)
 - [Browser support](#browser-support)
 - [Versioning](#versioning)
@@ -612,6 +612,8 @@ $.fn.datepicker.languages['zh-CN'] = {
   });
 </script>
 ```
+
+For Sinhala Support use `datepicker.si-LK`
 
 [⬆ back to top](#table-of-contents)
 
